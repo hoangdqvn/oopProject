@@ -1,7 +1,5 @@
 # oopProject
-# Java
-# JavaFX
-# JavaSwing
+# Java JavaFX JavaSwing
 
 A project in HUST
 
