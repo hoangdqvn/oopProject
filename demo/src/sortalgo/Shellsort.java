@@ -17,7 +17,7 @@ public class Shellsort {
                     temp = arr[j];
                     arr[j] = arr[j - gap];
                     arr[j - gap] = temp;
-                    st.getChildren().add(sw.farswap(list.get(j - gap), list.get(j), list, speed));
+                    st.getChildren().add(sw.swap(list.get(j - gap), list.get(j), list, speed));
                     j -= gap;
                 }
             }
